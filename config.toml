@@ -8,8 +8,8 @@ theme = "spectral"
 [params]
 fancyTitle = "SECOMP 2022" # title for frontpage, may include image
 copyright = "John Doe"
-description = 'Novahs realidadehs'
-startbuttonText = "Activate"
+description = 'Novas realidades'
+startbuttonText = ""
 startbuttonLink = "#"
 body_is_markdown = true
 #custom_css = "foo.css"
@@ -20,8 +20,32 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+url = '/sobre/'
+title = "A SECOMP"
+
+[[params.menu.main]]
+url = '/inscricoes/'
+title = "Inscrições"
+
+[[params.menu.main]]
+url = '/palestraseatividades/'
+title = "Palestras e atividades"
+
+[[params.menu.main]]
+url = '/cronograma/'
+title = "Cronograma"
+
+[[params.menu.main]]
+url = '/premios/'
+title = "Prêmios"
+
+[[params.menu.main]]
+url = '/organizacao/'
+title = "Organização"
+
+[[params.menu.main]]
+url = '/localizacaoecontato/'
+title = "Localização e contato"
 
 [taxonomies]
     tag = "tags"
@@ -119,7 +143,7 @@ special = true
 
 [[params.cta.link]]
 href = "#"
-text = "Learn More"
+text = "Saiba mais"
 special = false
 
 [params.contact]
