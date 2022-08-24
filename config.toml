@@ -6,7 +6,7 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "SECOMP 2022" # title for frontpage, may include image
+fancyTitle = '<img height="240" src="/images/logosecomp.png" alt="Logo"/><br />SECOMP 2022' # title for frontpage, may include image
 copyright = "John Doe"
 description = 'Novas realidades'
 startbuttonText = ""
@@ -79,18 +79,18 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "img/arteHome.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
+img = "images/dalle2.png"
+title = 'Iiiih carai, óculos escuro<br />tô vendo nada pô'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Tortor dolore feugiat<br />elementum magna'
+img = "images/dalle3.png"
+title = 'Estou com sono<br />preciso mimir...'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Magna primis lobortis<br />sed ullamcorper'
+img = "images/dalle4.png"
+title = 'Uma sociedade exausta<br />produz pessoas exaustas'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [params.three]
