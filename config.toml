@@ -6,9 +6,10 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = '<img height="240" src="/images/logosecomp.png" alt="Logo"/><br />SECOMP 2022' # title for frontpage, may include image
+fancyTitle = '<img height="550" src="/images/logotransparente2.png" alt="Logo"/>'
+#fancyTitle = '<img height="400" src="/images/logotransparentepng.png" alt="Logo"/><br />' # title for frontpage, may include image
 copyright = "John Doe"
-description = 'Novas realidades'
+description = '12ª semana da computação da UNICAMP'
 startbuttonText = ""
 startbuttonLink = "#"
 body_is_markdown = true
@@ -80,13 +81,13 @@ enable = true
 
 [[params.two.section]]
 img = "images/dalle2.png"
-title = 'Iiiih carai, óculos escuro<br />tô vendo nada pô'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Metaverso. Realidade aumentada, realidade virtual. Inteligência artificial, computação paralela, web 3.0. Blockchain, criptomoedas.'
+body = 'Apesar de essas palavras estarem circulando entre nós já há algum tempo, as tecnologias que representam ainda despertam o interesse e a curiosidade de muita gente. A SECOMP 2022 está aqui para te ajudar a entendê-las melhor e para mostrar aonde vão nos levar.'
 
 [[params.two.section]]
 img = "images/dalle3.png"
-title = 'Estou com sono<br />preciso mimir...'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = '<i>Sempre que uma vela é acesa,</i><br /><i>cria-se também uma sombra</i>.<br />Ursula K. Le Guin'
+body = 'Com novas tecnologias e possibilidades, são criados novos desafios, problemas e expectativas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade e o papel da Computação.'
 
 [[params.two.section]]
 img = "images/dalle4.png"
