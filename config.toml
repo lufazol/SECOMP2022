@@ -6,9 +6,9 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = '<img height="550" src="/images/logotransparente2.png" alt="Logo"/>'
+fancyTitle = '<img height="300" src="/images/logotransparente2.png" alt="Logo"/>'
 #fancyTitle = '<img height="400" src="/images/logotransparentepng.png" alt="Logo"/><br />' # title for frontpage, may include image
-copyright = "John Doe"
+copyright = "SECOMP"
 description = '12ª semana da computação da UNICAMP'
 startbuttonText = ""
 startbuttonLink = "#"
@@ -55,19 +55,20 @@ title = "Localização e contato"
 
 [params.one]
 enable = true
-title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
+title = '<i>O metaverso não é algo que uma empresa constrói.</i><br><i>É o próximo capítulo da internet.</i><br>Mark Zuckerberg'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+Tendo como ponto de partida a mudança do Facebook para Meta em outubro de 2021, é com bastante entusiasmo que a organização da SECOMP 2022 
+busca trazer, juntamente a todas as outras pautas e tecnologias que já costumamos acompanhar anualmente, discussões sobre as novas 
+realidades, ferramentas e possibilidades que o metaverso e tecnologias adjacentes trarão.
 '''
 
 [[params.one.icon]]
-icon = "fa-diamond"
+icon = "fa-code"
 style = "1"
 label = "Lorem"
 
 [[params.one.icon]]
-icon = "fa-heart-o"
+icon = "fa-code"
 style = "2"
 label = "Ipsum"
 
@@ -81,80 +82,27 @@ enable = true
 
 [[params.two.section]]
 img = "images/dalle2.png"
-title = 'Metaverso. Realidade aumentada, realidade virtual. Inteligência artificial, computação paralela, web 3.0. Blockchain, criptomoedas.'
-body = 'Apesar de essas palavras estarem circulando entre nós já há algum tempo, as tecnologias que representam ainda despertam o interesse e a curiosidade de muita gente. A SECOMP 2022 está aqui para te ajudar a entendê-las melhor e para mostrar aonde vão nos levar.'
+title = 'Realidade aumentada, realidade virtual. Inteligência artificial, computação paralela, web 3.0. Blockchain, criptomoedas.'
+body = 'Apesar de essas palavras estarem circulando entre nós já há algum tempo, as tecnologias que representam ainda despertam o interesse e a curiosidade de muita gente. A SECOMP 2022 está aqui para te ajudar a entendê-las melhor e para mostrar aonde poderão nos levar.'
 
 [[params.two.section]]
 img = "images/dalle3.png"
-title = '<i>Sempre que uma vela é acesa,</i><br /><i>cria-se também uma sombra</i>.<br />Ursula K. Le Guin'
-body = 'Com novas tecnologias e possibilidades, são criados novos desafios, problemas e expectativas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade e o papel da Computação.'
+title = '<i>Sempre que uma vela é acesa,</i><br><i>cria-se também uma sombra</i>.<br>Ursula K. Le Guin'
+body = 'Com novas tecnologias e possibilidades, são criados novos desafios, problemas e expectativas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade e o papel da Computação na condução desses impactos.'
 
 [[params.two.section]]
 img = "images/dalle4.png"
-title = 'Uma sociedade exausta<br />produz pessoas exaustas'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
-
-[params.three]
-enable = true
-title = 'Accumsan mus tortor nunc aliquet'
-body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
-fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-'''
-
-[[params.three.feature]]
-icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-laptop"
-title = "Ac Augue Eget"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-headphones"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-heart-o"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-flag-o"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[params.cta]
-enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
-
-[[params.cta.link]]
-href = "#"
-text = "Activate"
-special = true
-
-[[params.cta.link]]
-href = "#"
-text = "Saiba mais"
-special = false
+title = 'Além das palestras, apresentações e workshops:<br>(muitos) prêmios e a volta do <i>enterprise day</i>'
+body = 'Assim como nos anos anteriores, para a SECOMP 2022 manteremos uma semana repleta de atividades incríveis, diversos prêmios para quem participar dessas atividades e, por último, mas não menos importante: teremos também o retorno do Enterprise Day, uma feira em que empresas parceiras da SECOMP poderão divulgar seus projetos e suas vagas, auxiliando também estudantes de Computação a se inserir no mercado de trabalho.'
 
 [params.contact]
 enable = true
-title = "Contact"
-body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
-subject = "New Submission!"
+title = "Contato"
+body = "Dúvidas? Envie-nos uma mensagem! :)"
+phone = ""
+address = ""
+email = "contato@secomp.com.br"
+subject = "[Contato-site] Dúvida recebida!"
 plain = false
 
 [params.social]
