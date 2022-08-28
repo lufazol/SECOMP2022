@@ -55,11 +55,11 @@ title = "Localização e contato"
 
 [params.one]
 enable = true
-title = '<i>O metaverso não é algo que uma empresa constrói.</i><br><i>É o próximo capítulo da internet.</i><br>Mark Zuckerberg'
+title = 'secomp 2022: novas realidades'
 body = '''
-Tendo como ponto de partida a mudança do Facebook para Meta em outubro de 2021, é com bastante entusiasmo que a organização da SECOMP 2022 
-busca trazer, juntamente a todas as outras pautas e tecnologias que já costumamos acompanhar anualmente, discussões sobre as novas 
-realidades, ferramentas e possibilidades que o metaverso e tecnologias adjacentes trarão.
+Tendo como ponto de partida os crescentes debates e indagações sobre metaverso, é com muito entusiasmo que a organização da SECOMP 2022 
+busca trazer discussões sobre as possíveis realidades arquitetadas não só pelo metaverso, mas também por outras novas tecnologias -- e isso sem deixar 
+de lado todas as outras pautas sobre Computação que já temos o costume de acompanhar nos últimos anos, claro! ;)
 '''
 
 [[params.one.icon]]
@@ -87,8 +87,8 @@ body = 'Apesar de essas palavras estarem circulando entre nós já há algum tem
 
 [[params.two.section]]
 img = "images/dalle3.png"
-title = '<i>Sempre que uma vela é acesa,</i><br><i>cria-se também uma sombra</i>.<br>Ursula K. Le Guin'
-body = 'Com novas tecnologias e possibilidades, são criados novos desafios, problemas e expectativas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade e o papel da Computação na condução desses impactos.'
+title = '"Sempre que uma vela é acesa,<br>cria-se também uma sombra."<br>Ursula K. Le Guin'
+body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível para toda a sociedade.'
 
 [[params.two.section]]
 img = "images/dalle4.png"
