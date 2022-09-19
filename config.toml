@@ -21,16 +21,16 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/sobre/'
-title = "A SECOMP"
-
-[[params.menu.main]]
 url = '/inscricoes/'
 title = "Inscrições"
 
 [[params.menu.main]]
 url = '/palestraseatividades/'
 title = "Palestras e atividades"
+
+[[params.menu.main]]
+url = '/empresasparceiras/'
+title = "Empresas parceiras"
 
 [[params.menu.main]]
 url = '/cronograma/'
@@ -77,7 +77,7 @@ icon = "fa-code"
 style = "3"
 label = "Dolor"
 
-[params.two]
+[params.two] 
 enable = true
 
 [[params.two.section]]
@@ -95,13 +95,17 @@ img = "images/dalle4.png"
 title = 'Além das palestras, apresentações e workshops:<br>(muitos) prêmios e a volta do <i>enterprise day</i>'
 body = 'Assim como nos anos anteriores, para a SECOMP 2022 manteremos uma semana repleta de atividades incríveis, diversos prêmios para quem participar dessas atividades e, por último, mas não menos importante: teremos também o retorno do Enterprise Day, uma feira em que empresas parceiras da SECOMP poderão divulgar seus projetos e suas vagas, auxiliando também estudantes de Computação a se inserir no mercado de trabalho.'
 
+[params.three]
+enable = true
+title = 'Empresas parceiras'
+
 [params.contact]
 enable = true
 title = "Contato"
 body = "Dúvidas? Envie-nos uma mensagem! :)"
 phone = ""
 address = ""
-email = "contato@secomp.com.br"
+email = "secomp2022unicamp@gmail.com"
 subject = "[Contato-site] Dúvida recebida!"
 plain = false
 
