@@ -55,7 +55,7 @@ title = "Localização e contato"
 
 [params.one]
 enable = true
-title = 'secomp 2022: novas realidades'
+title = 'secomp 2022: novas realidades de 7 a 11 de novembro'
 body = '''
 Tendo como ponto de partida os crescentes debates e indagações sobre metaverso, é com muito entusiasmo que a organização da SECOMP 2022 
 busca trazer discussões sobre as possíveis realidades arquitetadas não só pelo metaverso, mas também por outras novas tecnologias -- e isso sem deixar 
@@ -88,21 +88,51 @@ body = 'Apesar de essas palavras estarem circulando entre nós já há algum tem
 [[params.two.section]]
 img = "images/dalle3.png"
 title = '"Sempre que uma vela é acesa,<br>cria-se também uma sombra."<br>Ursula K. Le Guin'
-body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível para toda a sociedade.'
-
-[[params.two.section]]
-img = "images/dalle4.png"
-title = 'Além das palestras, apresentações e workshops:<br>(muitos) prêmios e a volta do <i>enterprise day</i>'
-body = 'Assim como nos anos anteriores, para a SECOMP 2022 manteremos uma semana repleta de atividades incríveis, diversos prêmios para quem participar dessas atividades e, por último, mas não menos importante: teremos também o retorno do Enterprise Day, uma feira em que empresas parceiras da SECOMP poderão divulgar seus projetos e suas vagas, auxiliando também estudantes de Computação a se inserir no mercado de trabalho.'
+body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e, possivelmente, problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível para toda a sociedade, de modo a diminuir diferenças e melhorar a qualidade de vida de toda a população -- e não apenas para uma parcela restrita.'
 
 [params.three]
 enable = true
-title = 'Empresas parceiras'
+title = 'Se prepara, porque vem aí:'
+
+[[params.three.feature]]
+icon = "fa-suitcase"
+title = "Kits SECOMP 2022"
+body = "Nesse ano teremos kits com camisetas, kits com canecas e kits com diversos outros brindes. Quanto mais você participar dos eventos da semana, mais chances de ganhar o seu kit SECOMP 2022!"
+
+[[params.three.feature]]
+icon = "fa-trophy"
+title = "Prêmios e sorteios em todas as palestras e workshops"
+body = "É exatamente isso que você leu: ao fim de toda palestra e workshop da SECOMP, além do sorteio de kits SECOMP 2022, sortearemos também prêmios."
+
+[[params.three.feature]]
+icon = "fa-coffee"
+title = "(Muitos) coffee-breaks"
+body = "Ninguém consegue aprender bem de estômago vazio, sabemos bem disso. Então, não se preocupa, que o que não vai faltar durante a semana é coffee-break de manhã, tarde e noite."
+
+[[params.three.feature]]
+icon = "fa-briefcase"
+title = "Enterprise Day? Temos!"
+body = "Como se a oportunidade de aprender um monte sobre Computação e tecnologias não fosse suficiente, também teremos dia e horário reservados para nossas empresas parceiras falarem dos (temidos) processos seletivos e compartilharem suas oportunidades."
+
+[params.cta]
+enable = true
+title = "É hora de participar!"
+body = "Não há taxa para participar e preencher o Forms de inscrição não toma nem 5 minutinhos. Se inscrevendo, suas chances de ganhar prêmios aumentam muito."
+
+[[params.cta.link]]
+href = "#"
+text = "Cronograma"
+special = false
+
+[[params.cta.link]]
+href = "#"
+text = "Inscrição"
+special = true
 
 [params.contact]
 enable = true
 title = "Contato"
-body = "Dúvidas? Envie-nos uma mensagem! :)"
+body = "Dúvidas? Pode mandar mensagem! :)"
 phone = ""
 address = ""
 email = "secomp2022unicamp@gmail.com"
