@@ -41,7 +41,7 @@ title = "Localização"
 enable = true
 title = 'secomp 2022: novas realidades'
 body = '''
-De 7 a 11 de novembro, no Instituto de Computação da UNICAMP, volta ao presencial uma das maiores semanas de computação do Brasil.
+De 7 a 11 de novembro, no Instituto de Computação da UNICAMP, mais uma edição de uma das maiores semanas de computação do Brasil -- e de volta ao presencial.
 '''
 
 [[params.one.icon]]
@@ -64,13 +64,13 @@ enable = true
 
 [[params.two.section]]
 img = "images/dalle2.png"
-title = 'Dos bilhões de dados e da conexão constante aos metaversos'
+title = 'Das conexões constantes ao metaverso'
 body = '20 anos ou mesmo 10 anos atrás, era difícil prever o peso que a tecnologia e as conexões criadas por redes (sociais ou não) teriam no nosso dia a dia -- e quão insistentes e constantes elas se tornariam. Agora começamos a falar sobre novas realidades -- aumentadas, virtuais -- e metaverso, ao mesmo tempo em que tópicos como Inteligência Artificial e moedas virtuais têm ganhado cada vez mais espaço, não sem contestação ou polêmicas, como possíveis trilhas entre o ontem e o amanhã. Apesar de todas essas palavras estarem circulando entre nós já há algum tempo, as tecnologias que representam ainda despertam o interesse e a curiosidade de muita gente. A SECOMP 2022 está aqui para te ajudar a entendê-las melhor e para mostrar aonde poderão nos levar -- e os cuidados que devemos tomar.'
 
 [[params.two.section]]
 img = "images/dalle3.png"
 title = '"Sempre que uma vela é acesa,<br>cria-se também uma sombra."<br>Ursula K. Le Guin'
-body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e, possivelmente, problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades e ferramentas, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível para toda a sociedade, de modo a diminuir diferenças e melhorar a qualidade de vida de toda a população -- e não apenas para uma parcela restrita.'
+body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e, possivelmente, problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades e ferramentas, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é e será essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível, de modo a diminuir diferenças e melhorar a qualidade de vida de toda a população -- e não apenas de uma parcela restrita.'
 
 [[params.two.section]]
 img = "images/logos3.png"
@@ -82,14 +82,14 @@ enable = true
 title = 'E se prepara, porque vem aí:'
 
 [[params.three.feature]]
-icon = "fa-suitcase"
-title = "Kits SECOMP 2022"
-body = "Nesse ano teremos kits com camisetas, kits com garrafas e kits com diversos outros brindes. Quanto mais você participar dos eventos da semana, mais chances de ganhar o seu kit SECOMP 2022!"
-
-[[params.three.feature]]
 icon = "fa-trophy"
 title = "sorteios de kits e prêmios em todas as palestras e workshops"
 body = "É exatamente isso que você leu: ao fim de toda palestra e workshop da SECOMP, além do sorteio de kits SECOMP 2022, sortearemos também prêmios."
+
+[[params.three.feature]]
+icon = "fa-suitcase"
+title = "Kits SECOMP 2022"
+body = "Nesse ano teremos camisetas, garrafas e brindes fazendo parte do nosso kit. Quanto mais você participar dos eventos da semana, mais chances de ganhar o seu kit SECOMP 2022!"
 
 [[params.three.feature]]
 icon = "fa-coffee"
@@ -124,7 +124,7 @@ phone = ""
 address = ""
 email = "secomp2022unicamp@gmail.com"
 subject = "[Contato-site] Dúvida recebida!"
-plain = true
+plain = false
 
 [params.social]
 twitter = ""
