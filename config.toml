@@ -26,27 +26,11 @@ title = "Inscrições"
 
 [[params.menu.main]]
 url = '/palestraseatividades/'
-title = "Palestras e atividades"
-
-[[params.menu.main]]
-url = '/empresasparceiras/'
-title = "Empresas parceiras"
-
-[[params.menu.main]]
-url = '/cronograma/'
-title = "Cronograma"
-
-[[params.menu.main]]
-url = '/premios/'
-title = "Prêmios"
-
-[[params.menu.main]]
-url = '/organizacao/'
-title = "Organização"
+title = "Programação"
 
 [[params.menu.main]]
 url = '/localizacaoecontato/'
-title = "Localização e contato"
+title = "Localização"
 
 [taxonomies]
     tag = "tags"
@@ -55,11 +39,9 @@ title = "Localização e contato"
 
 [params.one]
 enable = true
-title = 'secomp 2022: novas realidades de 7 a 11 de novembro'
+title = 'secomp 2022: novas realidades'
 body = '''
-Tendo como ponto de partida os crescentes debates e indagações sobre metaverso, é com muito entusiasmo que a organização da SECOMP 2022 
-busca trazer discussões sobre as possíveis realidades arquitetadas não só pelo metaverso, mas também por outras novas tecnologias -- e isso sem deixar 
-de lado todas as outras pautas sobre Computação que já temos o costume de acompanhar nos últimos anos, claro! ;)
+De 7 a 11 de novembro, no Instituto de Computação da UNICAMP, volta ao presencial uma das maiores semanas de computação do Brasil.
 '''
 
 [[params.one.icon]]
@@ -68,7 +50,7 @@ style = "1"
 label = "Lorem"
 
 [[params.one.icon]]
-icon = "fa-code"
+icon = "fa-desktop"
 style = "2"
 label = "Ipsum"
 
@@ -82,46 +64,51 @@ enable = true
 
 [[params.two.section]]
 img = "images/dalle2.png"
-title = 'Realidade aumentada, realidade virtual. Inteligência artificial, computação paralela, web 3.0. Blockchain, criptomoedas.'
-body = 'Apesar de essas palavras estarem circulando entre nós já há algum tempo, as tecnologias que representam ainda despertam o interesse e a curiosidade de muita gente. A SECOMP 2022 está aqui para te ajudar a entendê-las melhor e para mostrar aonde poderão nos levar.'
+title = 'Dos bilhões de dados e da conexão constante aos metaversos'
+body = '20 anos ou mesmo 10 anos atrás, era difícil prever o peso que a tecnologia e as conexões criadas por redes (sociais ou não) teriam no nosso dia a dia -- e quão insistentes e constantes elas se tornariam. Agora começamos a falar sobre novas realidades -- aumentadas, virtuais -- e metaverso, ao mesmo tempo em que tópicos como Inteligência Artificial e moedas virtuais têm ganhado cada vez mais espaço, não sem contestação ou polêmicas, como possíveis trilhas entre o ontem e o amanhã. Apesar de todas essas palavras estarem circulando entre nós já há algum tempo, as tecnologias que representam ainda despertam o interesse e a curiosidade de muita gente. A SECOMP 2022 está aqui para te ajudar a entendê-las melhor e para mostrar aonde poderão nos levar -- e os cuidados que devemos tomar.'
 
 [[params.two.section]]
 img = "images/dalle3.png"
 title = '"Sempre que uma vela é acesa,<br>cria-se também uma sombra."<br>Ursula K. Le Guin'
-body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e, possivelmente, problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível para toda a sociedade, de modo a diminuir diferenças e melhorar a qualidade de vida de toda a população -- e não apenas para uma parcela restrita.'
+body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e, possivelmente, problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades e ferramentas, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível para toda a sociedade, de modo a diminuir diferenças e melhorar a qualidade de vida de toda a população -- e não apenas para uma parcela restrita.'
+
+[[params.two.section]]
+img = "images/logos3.png"
+title = 'Em velhas ou novas realidades, não construímos pontes sem ajuda'
+body = 'As SECOMPs são o que são porque são feitas em conjunto e com muita colaboração -- e, assim como nos outros anos, nesta edição também vamos contar com a presença de (incríveis) empresas parceiras. É com muito entusiasmo que nós as apresentamos: [Griaule](https://griaule.com/), [ProFUSION](https://www.profusion.mobi/index-pt.html), [SiDi](https://www.sidi.org.br/), [Semantix](https://semantix.ai/) e [Venturus](https://venturus.org.br/).'
 
 [params.three]
 enable = true
-title = 'Se prepara, porque vem aí:'
+title = 'E se prepara, porque vem aí:'
 
 [[params.three.feature]]
 icon = "fa-suitcase"
 title = "Kits SECOMP 2022"
-body = "Nesse ano teremos kits com camisetas, kits com canecas e kits com diversos outros brindes. Quanto mais você participar dos eventos da semana, mais chances de ganhar o seu kit SECOMP 2022!"
+body = "Nesse ano teremos kits com camisetas, kits com garrafas e kits com diversos outros brindes. Quanto mais você participar dos eventos da semana, mais chances de ganhar o seu kit SECOMP 2022!"
 
 [[params.three.feature]]
 icon = "fa-trophy"
-title = "Prêmios e sorteios em todas as palestras e workshops"
+title = "sorteios de kits e prêmios em todas as palestras e workshops"
 body = "É exatamente isso que você leu: ao fim de toda palestra e workshop da SECOMP, além do sorteio de kits SECOMP 2022, sortearemos também prêmios."
 
 [[params.three.feature]]
 icon = "fa-coffee"
 title = "(Muitos) coffee-breaks"
-body = "Ninguém consegue aprender bem de estômago vazio, sabemos bem disso. Então, não se preocupa, que o que não vai faltar durante a semana é coffee-break de manhã, tarde e noite."
+body = "Ninguém consegue aprender bem de estômago vazio, sabemos bem disso. Então, não se preocupa, que a gente garante coffee-break de manhã, tarde e noite."
 
 [[params.three.feature]]
 icon = "fa-briefcase"
-title = "Enterprise Day? Temos!"
-body = "Como se a oportunidade de aprender um monte sobre Computação e tecnologias não fosse suficiente, também teremos dia e horário reservados para nossas empresas parceiras falarem dos (temidos) processos seletivos e compartilharem suas oportunidades."
+title = "Oportunidades de emprego? Temos!"
+body = "Também teremos dia e horário reservados para nossas empresas parceiras falarem dos processos seletivos e compartilharem suas oportunidades. Sim, é ele de novo: o Enterprise Day."
 
 [params.cta]
 enable = true
 title = "É hora de participar!"
-body = "Não há taxa para participar e preencher o Forms de inscrição não toma nem 5 minutinhos. Se inscrevendo, suas chances de ganhar prêmios aumentam muito."
+body = "Não há taxa para participar da SECOMP, e preencher o Forms de inscrição não toma nem 5 minutinhos. Se inscrevendo, suas chances de ganhar prêmios nos sorteios aumentam muito. Vai pro Forms que a gente explica."
 
 [[params.cta.link]]
 href = "#"
-text = "Cronograma"
+text = "Programação"
 special = false
 
 [[params.cta.link]]
@@ -132,17 +119,17 @@ special = true
 [params.contact]
 enable = true
 title = "Contato"
-body = "Dúvidas? Pode mandar mensagem! :)"
+body = "Dúvidas? Pode falar com a gente! :)"
 phone = ""
 address = ""
 email = "secomp2022unicamp@gmail.com"
 subject = "[Contato-site] Dúvida recebida!"
-plain = false
+plain = true
 
 [params.social]
 twitter = ""
-facebook = ""
-instagram = ""
+facebook = "secompunicamp"
+instagram = "secompunicamp"
 dribble = ""
 
 # language specific options
