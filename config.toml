@@ -25,11 +25,11 @@ url = '/inscricoes/'
 title = "Inscrições"
 
 [[params.menu.main]]
-url = '/palestraseatividades/'
+url = '/programacao/'
 title = "Programação"
 
 [[params.menu.main]]
-url = '/localizacaoecontato/'
+url = '/localizacao/'
 title = "Localização"
 
 [taxonomies]
@@ -89,7 +89,7 @@ body = "É exatamente isso que você leu: ao fim de toda palestra e workshop da 
 [[params.three.feature]]
 icon = "fa-suitcase"
 title = "Kits SECOMP 2022"
-body = "Nesse ano teremos camisetas, garrafas e brindes fazendo parte do nosso kit. Quanto mais você participar dos eventos da semana, mais chances de ganhar o seu kit SECOMP 2022!"
+body = "Nesse ano teremos camisetas, sacochilas e brindes fazendo parte do nosso kit. Quanto mais você participar dos eventos da semana, mais chances de ganhar o seu kit SECOMP 2022!"
 
 [[params.three.feature]]
 icon = "fa-coffee"
@@ -107,7 +107,7 @@ title = "É hora de participar!"
 body = "Não há taxa para participar da SECOMP, e preencher o Forms de inscrição não toma nem 5 minutinhos. Se inscrevendo, suas chances de ganhar prêmios nos sorteios aumentam muito. Vai pro Forms que a gente explica."
 
 [[params.cta.link]]
-href = "#"
+href = "/programacao/"
 text = "Programação"
 special = false
 
