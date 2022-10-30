@@ -72,11 +72,6 @@ img = "images/dalle3.png"
 title = '"Sempre que uma vela é acesa,<br>cria-se também uma sombra."<br>Ursula K. Le Guin'
 body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e, possivelmente, problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades e ferramentas, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é e será essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível, de modo a diminuir diferenças e melhorar a qualidade de vida de toda a população -- e não apenas de uma parcela restrita.'
 
-[[params.two.section]]
-img = "images/logos3.png"
-title = 'Em velhas ou novas realidades, não construímos pontes sem ajuda'
-body = 'As SECOMPs são o que são porque são feitas em conjunto e com muita colaboração -- e, assim como nos outros anos, nesta edição também vamos contar com a presença de (incríveis) empresas parceiras. É com muito entusiasmo que nós as apresentamos: [Griaule](https://griaule.com/), [ProFUSION](https://www.profusion.mobi/index-pt.html), [SiDi](https://www.sidi.org.br/), [Semantix](https://semantix.ai/) e [Venturus](https://venturus.org.br/).'
-
 [params.three]
 enable = true
 title = 'E se prepara, porque vem aí:'
@@ -112,7 +107,7 @@ text = "Programação"
 special = false
 
 [[params.cta.link]]
-href = "#"
+href = "/inscricoes/"
 text = "Inscrição"
 special = true
 

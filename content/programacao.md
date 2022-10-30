@@ -28,8 +28,11 @@ draft: false
 **Local:** Auditório do IC-3
 
 #### 16h às 17h30:  
-**Palestra:** Lucas Silva - "Programação de GPU: Usando placa de vídeo para resolver problemas"   
+**Palestra:** Profª. Drª. Claudia Bauzer - "Ciência Aberta (Open Science) e oportunidades para profissionais da Computação"     
 **Local:** Auditório do IC-3
+
+**Palestra:** Lucas Silva - "Programação de GPU: Usando placa de vídeo para resolver problemas"   
+**Local:** Sala 353 do IC-3
 
 ## ➤ Quarta-feira (09/11)
 **☕ Coffee-break no hall do IC-3 das 15h30 às 16h e das 21h às 21h30**  
