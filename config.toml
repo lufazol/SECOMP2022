@@ -1,4 +1,4 @@
-baseURL = "https://lufazol.github.io"
+baseURL = "https://secompunicamp2022.github.io"
 title = "SECOMP 2022"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -21,7 +21,7 @@ url = '/'
 title = "Home"
 
 [[params.menu.main]]
-url = '/inscricoes/'
+url = 'https://forms.gle/kJQbaz3ik5t6RaK57'
 title = "Inscrições"
 
 [[params.menu.main]]
@@ -41,7 +41,7 @@ title = "Localização"
 enable = true
 title = 'secomp 2022: novas realidades'
 body = '''
-De 7 a 11 de novembro, no Instituto de Computação da UNICAMP, mais uma edição de uma das maiores semanas de computação do Brasil -- e de volta ao presencial.
+De 7 a 11 de novembro, no Instituto de Computação da UNICAMP, mais uma edição de uma das maiores semanas de Computação do Brasil -- e de volta à modalidade presencial.
 '''
 
 [[params.one.icon]]
@@ -72,6 +72,11 @@ img = "images/dalle3.png"
 title = '"Sempre que uma vela é acesa,<br>cria-se também uma sombra."<br>Ursula K. Le Guin'
 body = 'Com novas tecnologias e possibilidades, são criados também novos desafios e, possivelmente, problemas. Isso não nos escapou: queremos não apenas entender como funcionam essas novas realidades e ferramentas, mas todos os impactos que terão na sociedade. Nesse sentido, o papel de estudantes e profissionais da Computação é e será essencial para garantir que essas tecnologias sejam usadas da maneira mais benéfica e justa possível, de modo a diminuir diferenças e melhorar a qualidade de vida de toda a população -- e não apenas de uma parcela restrita.'
 
+[[params.two.section]]
+img = "images/logos_patrocinio.png"
+title = 'Em velhas ou novas realidades, não construímos pontes sem ajuda'
+body = 'As SECOMPs são o que são porque são feitas em conjunto e com muita colaboração -- e, assim como nos outros anos, nesta edição também vamos contar com a presença de (incríveis) empresas parceiras. É com muito entusiasmo que nós as apresentamos: [Griaule](https://griaule.com/), [SiDi](https://www.sidi.org.br/) e [Venturus](https://venturus.org.br/).'
+
 [params.three]
 enable = true
 title = 'E se prepara, porque vem aí:'
@@ -93,13 +98,13 @@ body = "Ninguém consegue aprender bem de estômago vazio, sabemos bem disso. En
 
 [[params.three.feature]]
 icon = "fa-briefcase"
-title = "Oportunidades de emprego? Temos!"
+title = "Mercado de trabalho e oportunidades"
 body = "Também teremos dia e horário reservados para nossas empresas parceiras falarem dos processos seletivos e compartilharem suas oportunidades. Sim, é ele de novo: o Enterprise Day."
 
 [params.cta]
 enable = true
 title = "É hora de participar!"
-body = "Não há taxa para participar da SECOMP, e preencher o Forms de inscrição não toma nem 5 minutinhos. Se inscrevendo, suas chances de ganhar prêmios nos sorteios aumentam muito. Vai pro Forms que a gente explica."
+body = "Para ganhar prêmios em qualquer um dos sorteios da SECOMP 2022, é **obrigatório** se inscrever. A inscrição na SECOMP é gratuita, e preencher o Forms de inscrição não toma nem 3 minutinhos."
 
 [[params.cta.link]]
 href = "/programacao/"
@@ -107,12 +112,12 @@ text = "Programação"
 special = false
 
 [[params.cta.link]]
-href = "/inscricoes/"
+href = "https://forms.gle/kJQbaz3ik5t6RaK57"
 text = "Inscrição"
 special = true
 
 [params.contact]
-enable = true
+enable = false
 title = "Contato"
 body = "Dúvidas? Pode falar com a gente! :)"
 phone = ""

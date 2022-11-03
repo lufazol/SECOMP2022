@@ -16,7 +16,7 @@ draft: false
 **Palestra:** LkCamp - "Software Livre: o que é? Onde vive? O que come?"   
 **Local:** Auditório do IC-3
 
-#### 20h às 22h:  
+#### 20h às 21h:  
 **★ Cerimônia de abertura SECOMP 2022 ★**  
 **Local:** Auditório III do Centro de Convenções da UNICAMP
 
